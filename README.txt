@@ -20,7 +20,7 @@ Test json file "test.json" is provided.
 - Solution is provided in the form of maven (http://maven.apache.org/download.cgi) project. 
 - Application is developed by Java 1.8 language
 - Application uses Servlet 3.1 API
-- Solution is packaged to war archive
+- Solution is packaged to war archive and can be run on Tomcat 8 version
 - Configuration is provided in Java configuration (no xml configuration)
 
 
